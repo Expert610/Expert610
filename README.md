@@ -46,10 +46,10 @@ Here are a few projects I’ve worked on:
 
 ## 📫 Let's Connect
 
-- 🌐 GitHub: [github.com/YOUR_USERNAME](https://github.com/Expert610)
+- 🌐 GitHub: [github.com/Expert610](https://github.com/Expert610)
 - 📧 Email: yaisikhan111@gmal.com
 - 🎥 Phone No: 03400462508
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/muhammad-yasir-a63146297)
+- 💼 LinkedIn: [MY Profile](https://linkedin.com/in/muhammad-yasir-a63146297)
 
 ---
 
