@@ -1,29 +1,28 @@
 # 👋 Hi, I'm Muhammad Yasir
 
-🎓 Computer Science Student | 🛡️ Aspiring Python Specialist | 🧠 Lifelong Learner | Python Programming
+🎓 Data Science | 🛡️ Power BI Specialist | 🧠 Data analyst | Python Programming | Microsoft Excel| AI/ML | SQL 
 
-I'm currently pursuing my **Bachelor's in Computer Science** and have a strong passion for **Python language**, especially in **Data Science and AI/ML**. I love working on small but meaningful projects that improve my programming skills, from ethical hacking scripts to desktop tools and web apps.
+I'm currently pursuing my **Bachelor's in Computer Science** and have a strong passion for **Data Science**, especially in **Data Analysis and AI/ML**. I love working on small but meaningful projects that improve my skills, from Data Insights  to Dashboard and Model Prediction .
 
 ---
 
 ## 💡 What I Do
 
-- 🔐 Learning**Python Programming** & **Advance OOP**
-- 🖥️ Building tools using **Python**, **Framework**, and **Microservices**
-- 🌐 Creating web applications using **Flask**, **HTML/CSS**, **Bootstrap** ,**Django**
-- 🧪 Exploring **Data Science**, **AI**, and **Machine Learning**
-- 🧰 Automating tasks and building productivity tools
-- 🎮 Gaming tactics enthusiast — playstyle: **Rusher**
+- 🔐 Learning**Python Programming** & **Data Science**
+- 🖥️ Building Projects using **Python**, **Power BI**, **Microsoft Excel** and **Data Science**
+- 🌐 Creating Dashboard,Apps, and Models using **python**, **Power BI**, **Microsoft Excel** ,**SQL**
+- 🧪 Exploring **Data Science**, **Data analysis**, and **AI/Machine Learning**
+- 🧰 Automating tasks and building productivity Dashboard 
+- 🎮 Gaming tactics enthusiast — playstyle **Rusher**
 
 ---
 
 ## 🔧 Tools & Technologies
 
-- **Languages**: Python,R, HTML, CSS, JavaScript
-- **Frameworks**: Flask, Tkinter, PyQt, Bootstrap
-- **Databases**: SQLite, SQL Server, Firebase
-- **Tools**: VS Code, GitHub, Wireshark, Kali Linux
-- **OS**: Windows, Linux (VM & Dual Boot)
+- **Languages**: Python,R, M,Dax.
+- **Databases**: SQLite, SQL Server, Firebase, dataLake.
+- **Tools**: VS Code, GitHub, Power BI, MS Excel, Google Analytics.
+- **OS**: Windows.
 
 ---
 
@@ -33,12 +32,18 @@ Here are a few projects I’ve worked on:
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 💬 LAN ChatBot | A Python-based LAN chatbot with GUI & backend | Python, Socket, Tkinter |
-| 🗝️ Password Manager | C# WinForms app for managing encrypted passwords | C#, SQL Server |
-| 🔒 Encryption Tool | Encrypt/decrypt files with VB.NET | VB.NET, Windows Forms |
-| 🔗 URL Shortener | Flask app with authentication & link analytics | Flask, SQLite |
-| 📊 FitTrack | Personal health tracker Python library | Python |
-| 🧮 PyMath | Python math utility package for learning | Python |
+
+💬 LAN ChatBot | A Python-based LAN chatbot with GUI & backend | Python, Socket, Tkinter.
+
+🗝️ Sales Dashboard | Power BI | Superstore Dataset .
+
+🔒 Car Price Prediction Model | Data Science | Python | Numpy | seaborn | Matplotlib.
+
+🔗  Customers Churn Dashboard| Data analytics | Fictional Dataset | Power BI | Dax | EDA .
+
+📊 Hr analytics Report| Power bi | Python | Excel.
+
+🧮 Gases Pollution Prediction model| Python | Seaborn | pandas
 
 > ✅ Check my GitHub repositories for code, demos, and docs.
 
@@ -57,8 +62,8 @@ Here are a few projects I’ve worked on:
 
 - 🔄 Contribute to open-source Projects
 - 📚 Publish mini projects and learning guides
-- 🎓 Complete certifications like **Python Programmer**, **Sql**, or **Project Management**
-- 🤖 Build AI-integrated  apps
+- 🎓 Complete certifications like **Data Analyst**, **Sql**, or **Data scientist**
+- 🤖 Build AI-integrated  Dashboard 
 
 ---
 
